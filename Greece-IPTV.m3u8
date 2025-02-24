@@ -21,6 +21,8 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/maina
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ERT World (720p)
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ANT1 (1080p) [Geo-blocked]
+http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8?checkedby:iptvcat.com

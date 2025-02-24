@@ -104,13 +104,13 @@ https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6
 #EXTINF:0 tvg-country="GR" tvg-name="Πανελλαδικά" tvg-name="ANT1" tvg-logo="https://raw.githubusercontent.com/pr0m1th3as/greek-iptv/refs/heads/master/logos/ANT1.png",ANT1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/index.m3u8
-#EXTINF:0 tvg-country="GR" tvg-name="Πανελλαδικά" tvg-name="ALPHA" tvg-logo="https://raw.githubusercontent.com/pr0m1th3as/greek-iptv/refs/heads/master/logos/ALPHA.png",ALPHA HD
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ALPHA HD
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
-#EXTINF:0 tvg-country="GR" tvg-name="Πανελλαδικά" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/pr0m1th3as/greek-iptv/refs/heads/master/logos/STAR.png",STAR International
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",STAR International
 https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
-#EXTINF:0 tvg-country="GR" tvg-name="Πανελλαδικά" tvg-name="STAR HD" tvg-logo="https://raw.githubusercontent.com/pr0m1th3as/greek-iptv/refs/heads/master/logos/STAR-HD.png",STAR HD 
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",,STAR HD 
 http://livestar.siliconweb.com/starvod/star4/star4.m3u8
-#EXTINF:0 tvg-country="GR" tvg-name="Πανελλαδικά" tvg-name="ΣΚΑΪ" tvg-logo="https://raw.githubusercontent.com/pr0m1th3as/greek-iptv/refs/heads/master/logos/SKAI.png",SKAI HD 
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",SKAI HD 
 http://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:0 tvg-country="GR" tvg-name="Πανελλαδικά" tvg-name="OPEN" tvg-logo="https://raw.githubusercontent.com/pr0m1th3as/greek-iptv/refs/heads/master/logos/OPEN.png",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8

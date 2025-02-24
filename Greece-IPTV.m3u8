@@ -10,14 +10,8 @@ https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά", tvg-logo="https://i.imgur.com/Dy4RR7G.png",MEGA HD
 https://streamcdnh10-c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/mega-channel-gr.png", MEGA HD
-https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά", tvg-name="ΕΡΤ 1" tvg-logo="https://raw.githubusercontent.com/pr0m1th3as/greek-iptv/refs/heads/master/logos/ERT1.png",ERT1 HD
-https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/index.m3u8
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά", tvg-logo="https://raw.githubusercontent.com/pr0m1th3as/greek-iptv/refs/heads/master/logos/ERT2.png",ERT2 HD
-https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24828z/index.m3u8
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά", tvg-logo="https://raw.githubusercontent.com/pr0m1th3as/greek-iptv/refs/heads/master/logos/ERT3.png",ERT3 HD
-https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24828n/index.m3u8
+
+
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/open-tv-gr.png", OPEN BEYOND HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά", tvg-name="OPEN" tvg-logo="https://raw.githubusercontent.com/pr0m1th3as/greek-iptv/refs/heads/master/logos/OPEN.png",OPEN TV HD
@@ -30,8 +24,8 @@ https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
 https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",STAR HD 
 http://livestar.siliconweb.com/starvod/star4/star4.m3u8
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",Star Channel (720p)
-http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ANT1
+http://wow.ant1.gr:1935/live/smil:mavani.smil/playlist.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά", tvg-name="ant1europe" tvg-logo="https://i.imgur.com/lc0mZ4i.jpg",ANT1 EUROPE
 http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά", tvg-name="ant1" tvg-logo="https://i.imgur.com/V1w22Or.png",ANT1 HD
@@ -43,10 +37,10 @@ https://d1nfykbwa3n98t.cloudfront.net:443/out/v1/6e5667da5a6843899a337dea72adb61
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/index.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/ant1-gr.png", ANT1 HD
 https://d1nfykbwa3n98t.cloudfront.net:443/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_1.m3u8
+
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",SKAI HD 
 http://skai-live.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/greece/skai-tv-gr.png", SKAI HD
-https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+
 #EXTINF:0 tvg-country="GR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Action_24_new_logo.jpg" group-title="Movies",Action 24 (1080p)
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GR" tvg-name="CINEMA TIME" tvg-logo="https://i.imgur.com/wnVEvRM.png" group-title="Movies",Alfa Dramas (226p) [Not 24/7]

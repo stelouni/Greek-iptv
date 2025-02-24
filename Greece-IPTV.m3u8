@@ -101,7 +101,7 @@ https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
 http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 #EXTINF:0 tvg-country="GR" tvg-name="Πανελλαδικά" tvg-name="MEGA" tvg-logo="https://i.imgur.com/Dy4RR7G.png",MEGA HD
 https://embed.vindral.com/?core.channelId=alteregomedia_megatv1_ci_6cc490c7-e5c6-486b-acf0-9bb9c20fa670&core.minBufferTime=2000&player.aspectRatio=16:9&player.fullscreenButtonEnabled=false&castEnabled=false
-#EXTINF:0 tvg-country="GR" tvg-name="Πανελλαδικά" tvg-name="ANT1" tvg-logo="https://raw.githubusercontent.com/pr0m1th3as/greek-iptv/refs/heads/master/logos/ANT1.png",ANT1 HD
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ANT1 HD
 #KODIPROP:inputstream=inputstream.adaptive
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/index.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ALPHA HD

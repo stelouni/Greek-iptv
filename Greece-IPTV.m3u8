@@ -4,6 +4,8 @@
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ANT1 (1080p) [Geo-blocked]
 http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ANT1 Cyprus (1080p)
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",Alpha TV

@@ -23,12 +23,8 @@ https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",STAR HD 
 http://livestar.siliconweb.com/starvod/star4/star4.m3u8
 
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά", Ant1 HD
-https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά", ANT1
-http://wow.ant1.gr:1935/live/smil:mavani.smil/playlist.m3u8
-#EXTINF:0 tvg-country="GR"" group-title="Πανελλαδικά", tvg-name="Ant1" tvg-logo="http://greektv.pbworks.com/f/ANT1.png",
-ANT1 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ANT1 
+https://liveantennaint.antenna.gr/
 
 
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",SKAI HD 

@@ -2,10 +2,8 @@
 
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ERT Sports 2 (1080p)
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",Ant1
-https://liveantennaint.antenna.gr/
-#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ANT1
-https://list.iptvcat.com/my_list/s/eb87dcb0f947776b0f8bde5d30421aa9.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ANT1 (1080p) [Geo-blocked]
+http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",Alpha TV

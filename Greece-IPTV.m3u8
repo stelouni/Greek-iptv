@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ERT1
+http://88.99.254.101/ert1/mono.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ERT2
+http://88.99.254.101/ert2/mono.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ERT3
+http://88.99.254.101/ert3/mono.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ERT News (1080p)
+http://ertflix.s.llnwi.net/ertlive/ertnews/default/index.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ERT News (1080p)
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ERT Sports 1 (1080p)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ERT Sports 1 (1080p) [Geo-blocked]
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ERT Sports 2 (1080p)
+http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ERT Sports 2 (1080p) [Geo-blocked]
+http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/playlist.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ERT World (1080p)
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
+#EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ERT World (720p)
+https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 
 #EXTINF:0 tvg-country="GR" tvg-logo="" group-title="Πανελλαδικά",ALPHA HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8?checkedby:iptvcat.com
